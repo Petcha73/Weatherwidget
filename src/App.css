@@ -1,0 +1,149 @@
+h1{
+
+  font-size: 20px;
+  margin-bottom: 5px;
+margin-top: 5px;
+}
+
+
+
+h3{
+
+  margin-top: 0px;
+  font-size: 12px;
+
+}
+
+.container{
+  max-width: 640px;
+  min-width: 640px;
+  padding :10px 10px 10px 10px;
+  height: 350px;
+  background-color:white;
+
+}
+
+.logo{
+  height : 40px;
+  padding : 0px;
+
+}
+.title{
+  color: white;
+  background-color: #4EA9E0;
+  text-align: center;
+  padding : 20px 0px 20px 0px;
+
+
+}
+
+
+.page{
+  padding : 0px;
+
+}
+.main{
+
+  height : 200px;
+  padding : 0px;
+
+
+}
+
+.menu{
+
+  text-align: center;
+  padding : 0px;
+
+}
+
+.cityTitle{
+
+  border: 1px solid transparent;
+  border-radius: 4px;
+
+  margin-top: 10px ;
+  padding: 8px 30px 8px 10px;
+  display: block;
+  font-size: 16px;
+
+  background-color: #4b72af;
+  color: white;
+  text-align: center;
+
+}
+.cities{
+
+  height : 160px;
+  padding : 0px;
+  text-align: center;
+  border: 1em;
+  border-style: normal;
+}
+
+.city{
+
+
+
+}
+
+.city:hover{
+
+  cursor: pointer;
+  touch-action: manipulation;
+
+}
+
+
+
+.tableHead{
+  border: 1px solid transparent;
+  border-radius: 4px;
+  
+  font-size: 16px;
+
+  background-color: #4b72af;
+  color: white;
+  font-weight: lighter;
+  text-align: center;
+
+}
+
+.tableHead th{
+
+  font-weight: lighter;
+  text-align: center;
+
+}
+
+.table{
+  padding : 10px;
+
+}
+
+
+td{
+
+  text-align: center;  
+}
+
+
+.bttn{
+
+  margin-top: 10px ;
+  padding-right: 50px;
+  padding-left: 50px;
+  height: 40px;
+}
+
+.logoImg{
+
+  width:100px;
+  margin: 10px 0px 10px 0px;
+
+}
+
+
+
+
+
